@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "final portfolio",
+			"path": "."
+		},
+		{
+			"name": "Kashish porfolio",
+			"path": "../../portfolio/Kashish porfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "final portfolio",
+		"liveServer.settings.port": 5502
+	}
+}
